@@ -1,9 +1,9 @@
 ## The first function creates an object that can store a matrix and its inverse, and that consists
 ## from four operations: 
-##
-##
-##
-##
+## * set matrix
+## * get matrix
+## * set inverse matrix
+## * get inverse
 
 
 makeCacheMatrix <- function(matr = matrix()) {
